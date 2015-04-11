@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffffff</color>
+    <color name="blue">#ff0066ff</color>
+    <color name="no_color">#00000000</color>
+    <color name="bg_color">#ffe3e3e3</color>
+    <color name="bg_color_deep">#ffe5e5e5</color>
+    <color name="black">#ff000000</color>
+    <color name="text_color">#ff434343</color>
+    <color name="black_half">#50000000</color>
+    <color name="gray">#ffe5e5e5</color>
+    <color name="light_gray">#ff777777</color>
+    <color name="touming">#00ffffff</color>
+    <color name="deep_gray">#ffaaaaaa</color>
+    <color name="selected_tabtext">#bb000000</color>
+    <color name="unselected_tabtext">#77000000</color>
+</resources>
