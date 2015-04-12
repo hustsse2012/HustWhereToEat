@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout android:orientation="horizontal" android:background="@drawable/pop_bg" android:layout_width="fill_parent" android:layout_height="fill_parent"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <ImageView android:id="@id/popView_Img" android:layout_width="wrap_content" android:layout_height="wrap_content" />
-    <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip">
-        <TextView android:textColor="@color/light_gray" android:id="@id/popView_nameTxt" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="123344" />
-        <TextView android:textColor="@color/light_gray" android:id="@id/popView_addressTxt" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="4.0dip" android:text="123344" />
-    </LinearLayout>
-</LinearLayout>

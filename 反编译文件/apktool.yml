@@ -1,6 +1,0 @@
-version: 1.4.1
-apkFileName: HustWhereToEat.apk
-isFrameworkApk: false
-usesFramework:
-  ids:
-  - 1

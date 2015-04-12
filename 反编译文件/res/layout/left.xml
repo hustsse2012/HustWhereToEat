@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout android:orientation="vertical" android:id="@id/left" android:background="@color/bg_color_deep" android:layout_width="fill_parent" android:layout_height="fill_parent"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <LinearLayout android:orientation="vertical" android:background="@drawable/fragment_left_bg" android:layout_width="260.0dip" android:layout_height="fill_parent">
-        <ListView android:id="@id/left_listview" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:listSelector="@drawable/biz_navigation_tab_bg_pressed" android:cacheColorHint="@null" android:divider="@drawable/biz_main_tab_divider" android:dividerHeight="1.0px" />
-    </LinearLayout>
-</LinearLayout>
